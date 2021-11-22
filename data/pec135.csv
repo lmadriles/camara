@@ -1,17 +1,17 @@
 nome,partido,voto
-AJ Albuquerque,(PP-CE),Ausente
-Abílio Santana,(PL-BA),Ausente
+AJ Albuquerque,(PP-CE),Sem voto
+Abílio Santana,(PL-BA),Sem voto
 Abou Anni,(PSL-SP),Sim
-Acácio Favacho,(PROS-AP),Ausente
-Adolfo Viana,(PSDB-BA),Ausente
+Acácio Favacho,(PROS-AP),Sem voto
+Adolfo Viana,(PSDB-BA),Sem voto
 Adriana Ventura,(Novo-SP),Não
-Adriano do Baldy,(PP-GO),Ausente
+Adriano do Baldy,(PP-GO),Sem voto
 Aécio Neves,(PSDB-MG),Abstenção
 Aelton Freitas,(PL-MG),Não
 Afonso Florence,(PT-BA),Não
-Afonso Hamm,(PP-RS),Ausente
+Afonso Hamm,(PP-RS),Sem voto
 Afonso Motta,(PDT-RS),Não
-Aguinaldo Ribeiro,(PP-PB),Ausente
+Aguinaldo Ribeiro,(PP-PB),Sem voto
 Airton Faleiro,(PT-PA),Não
 Alan Rick,(DEM-AC),Sim
 Alceu Moreira,(MDB-RS),Sim
@@ -23,7 +23,7 @@ Alex Manente,(Cidadania-SP),Não
 Alex Santana,(PDT-BA),Sim
 Alexandre Frota,(PSDB-SP),Não
 Alexandre Leite,(DEM-SP),Não
-Alexandre Padilha,(PT-SP),Ausente
+Alexandre Padilha,(PT-SP),Sem voto
 Alexis Fonteyne,(Novo-SP),Sim
 Alice Portugal,(PCdoB-BA),Não
 Aliel Machado,(PSB-PR),Não
@@ -32,20 +32,20 @@ Aline Sleutjes,(PSL-PR),Sim
 Altineu Côrtes,(PL-RJ),Não
 Aluisio Mendes,(PSC-MA),Sim
 Amaro Neto,(Republican-ES),Sim
-André Abdon,(PP-AP),Ausente
+André Abdon,(PP-AP),Sem voto
 André Ferreira,(PSC-PE),Sim
 André Figueiredo,(PDT-CE),Não
-André Fufuca,(PP-MA),Ausente
+André Fufuca,(PP-MA),Sem voto
 André Janones,(Avante-MG),Não
 André de Paula,(PSD-PE),Não
 Angela Amin,(PP-SC),Não
-Aníbal Gomes,(DEM-CE),Ausente
+Aníbal Gomes,(DEM-CE),Sem voto
 Antonio Brito,(PSD-BA),Não
 Arlindo Chinaglia,(PT-SP),Não
 Arnaldo Jardim,(Cidadania-SP),Não
 Aroldo Martins,(Republican-PR),Sim
 Arthur Lira,(PP-AL),Art. 17
-Arthur O. Maia,(DEM-BA),Ausente
+Arthur O. Maia,(DEM-BA),Sem voto
 Átila Lins,(PP-AM),Sim
 Átila Lira,(PP-PI),Não
 Augusto Coutinho,(Solidaried-PE),Não
@@ -61,14 +61,14 @@ Beto Rosado,(PP-RN),Não
 Bia Cavassa,(PSDB-MS),Sim
 Bia Kicis,(PSL-DF),Sim
 Bibo Nunes,(PSL-RS),Sim
-Bilac Pinto,(DEM-MG),Ausente
+Bilac Pinto,(DEM-MG),Sem voto
 Bira do Pindaré,(PSB-MA),Não
 Boca Aberta,(PROS-PR),Sim
 Bohn Gass,(PT-RS),Não
 Bosco Costa,(PL-SE),Não
 Bosco Saraiva,(Solidaried-AM),Não
 Bozzella,(PSL-SP),Não
-Bruna Furlan,(PSDB-SP),Ausente
+Bruna Furlan,(PSDB-SP),Sem voto
 Cacá Leão,(PP-BA),Sim
 Camilo Capiberibe,(PSB-AP),Não
 Cap. Alberto Neto,(Republican-AM),Sim
@@ -86,16 +86,16 @@ Carlos Veras,(PT-PE),Não
 Carlos Zarattini,(PT-SP),Não
 Carmen Zanotto,(Cidadania-SC),Sim
 Caroline de Toni,(PSL-SC),Sim
-Cássio Andrade,(PSB-PA),Ausente
+Cássio Andrade,(PSB-PA),Sem voto
 Celina Leão,(PP-DF),Sim
 Célio Moura,(PT-TO),Não
 Célio Silveira,(PSDB-GO),Sim
 Célio Studart,(PV-CE),Não
 Celso Maldaner,(MDB-SC),Sim
 Celso Russomanno,(Republican-SP),Sim
-Celso Sabino,(PSL-PA),Ausente
+Celso Sabino,(PSL-PA),Sem voto
 Cezinha Madureira,(PSD-SP),Sim
-Charles Fernandes,(PSD-BA),Ausente
+Charles Fernandes,(PSD-BA),Sem voto
 Charlles Evangelis,(PSL-MG),Sim
 Chico D´Angelo,(PDT-RJ),Não
 Chiquinho Brazão,(Avante-RJ),Não
@@ -108,7 +108,7 @@ Cleber Verde,(Republican-MA),Sim
 Coronel Armando,(PSL-SC),Sim
 Coronel Tadeu,(PSL-SP),Sim
 CoronelChrisóstom,(PSL-RO),Sim
-Covatti Filho,(PP-RS),Ausente
+Covatti Filho,(PP-RS),Sem voto
 Cristiano Vale,(PL-PA),Não
 Da Vitória,(Cidadania-ES),Sim
 Dagoberto Nogueira,(PDT-MS),Não
@@ -116,11 +116,11 @@ Damião Feliciano,(PDT-PB),Não
 Daniel Almeida,(PCdoB-BA),Não
 Daniel Coelho,(Cidadania-PE),Não
 Daniel Freitas,(PSL-SC),Sim
-Daniel Silveira,(PSL-RJ),Ausente
+Daniel Silveira,(PSL-RJ),Sem voto
 Daniel Trzeciak,(PSDB-RS),Sim
 Daniela Waguinho,(MDB-RJ),Não
 Danilo Cabral,(PSB-PE),Não
-Danilo Forte,(PSDB-CE),Ausente
+Danilo Forte,(PSDB-CE),Sem voto
 Darci de Matos,(PSD-SC),Sim
 David Miranda,(PSOL-RJ),Não
 David Soares,(DEM-SP),Sim
@@ -151,12 +151,12 @@ Eduardo Costa,(PTB-PA),Sim
 Eduardo Cury,(PSDB-SP),Não
 Eduardo da Fonte,(PP-PE),Não
 EduardoBolsonaro,(PSL-SP),Sim
-Efraim Filho,(DEM-PB),Ausente
-Elcione Barbalho,(MDB-PA),Ausente
+Efraim Filho,(DEM-PB),Sem voto
+Elcione Barbalho,(MDB-PA),Sem voto
 Eli Borges,(Solidaried-TO),Sim
 Eli Corrêa Filho,(DEM-SP),Não
 Elias Vaz,(PSB-GO),Não
-Elmar Nascimento,(DEM-BA),Ausente
+Elmar Nascimento,(DEM-BA),Sem voto
 Emanuel Pinheiro N,(PTB-MT),Sim
 Emidinho Madeira,(PSB-MG),Sim
 Enio Verri,(PT-PR),Não
@@ -167,39 +167,39 @@ EuclydesPettersen,(PSC-MG),Sim
 Evair de Melo,(PP-ES),Sim
 Expedito Netto,(PSD-RO),Sim
 Fábio Henrique,(PDT-SE),Não
-Fábio Mitidieri,(PSD-SE),Ausente
-Fábio Ramalho,(MDB-MG),Ausente
+Fábio Mitidieri,(PSD-SE),Sem voto
+Fábio Ramalho,(MDB-MG),Sem voto
 Fabio Reis,(MDB-SE),Sim
 Fabio Schiochet,(PSL-SC),Sim
 Fábio Trad,(PSD-MS),Não
 Fausto Pinato,(PP-SP),Não
 Felício Laterça,(PSL-RJ),Sim
 Felipe Carreras,(PSB-PE),Não
-Felipe Rigoni,(PSB-ES),Ausente
+Felipe Rigoni,(PSB-ES),Sem voto
 FelipeFrancischini,(PSL-PR),Sim
 Félix Mendonça Jr,(PDT-BA),Não
 FernandaMelchionna,(PSOL-RS),Não
 Fernando Coelho,(DEM-PE),Não
 FernandoMonteiro,(PP-PE),Não
-FernandoRodolfo,(PL-PE),Ausente
+FernandoRodolfo,(PL-PE),Sem voto
 Filipe Barros,(PSL-PR),Sim
-Flávia Morais,(PDT-GO),Ausente
-Flaviano Melo,(MDB-AC),Ausente
+Flávia Morais,(PDT-GO),Sem voto
+Flaviano Melo,(MDB-AC),Sem voto
 Flávio Nogueira,(PDT-PI),Não
-Flordelis,(PSD-RJ),Ausente
+Flordelis,(PSD-RJ),Sem voto
 Francisco Jr.,(PSD-GO),Sim
 Franco Cartafina,(PP-MG),Sim
 Fred Costa,(Patriota-MG),Sim
 Frei Anastacio,(PT-PB),Não
 Gastão Vieira,(PROS-MA),Não
-Gelson Azevedo,(PL-RJ),Ausente
+Gelson Azevedo,(PL-RJ),Sem voto
 Genecias Noronha,(Solidaried-CE),Não
 General Girão,(PSL-RN),Sim
 General Peternelli,(PSL-SP),Sim
 Geninho Zuliani,(DEM-SP),Não
 Geovania de Sá,(PSDB-SC),Sim
 Gervásio Maia,(PSB-PB),Não
-Giacobo,(PL-PR),Ausente
+Giacobo,(PL-PR),Sem voto
 Gil Cutrim,(Republican-MA),Não
 Gilberto Abramo,(Republican-MG),Sim
 GilbertoNasciment,(PSC-SP),Sim
@@ -209,7 +209,7 @@ Giovani Feltes,(MDB-RS),Sim
 Glauber Braga,(PSOL-RJ),Não
 Glaustin da Fokus,(PSC-GO),Sim
 Gleisi Hoffmann,(PT-PR),Não
-Gonzaga Patriota,(PSB-PE),Ausente
+Gonzaga Patriota,(PSB-PE),Sem voto
 Greyce Elias,(Avante-MG),Sim
 Guiga Peixoto,(PSL-SP),Sim
 Guilherme Derrite,(PP-SP),Sim
@@ -228,15 +228,15 @@ Helio Lopes,(PSL-RJ),Sim
 Henrique Fontana,(PT-RS),Não
 Henrique Paraíso,(Republican-SP),Sim
 Hercílio Diniz,(MDB-MG),Sim
-Herculano Passos,(MDB-SP),Ausente
-HermesParcianello,(MDB-PR),Ausente
-Hildo Rocha,(MDB-MA),Ausente
-Hiran Gonçalves,(PP-RR),Ausente
+Herculano Passos,(MDB-SP),Sem voto
+HermesParcianello,(MDB-PR),Sem voto
+Hildo Rocha,(MDB-MA),Sem voto
+Hiran Gonçalves,(PP-RR),Sem voto
 Hugo Leal,(PSD-RJ),Sim
-Hugo Motta,(Republican-PB),Ausente
+Hugo Motta,(Republican-PB),Sem voto
 Idilvan Alencar,(PDT-CE),Não
 Igor Kannário,(DEM-BA),Sim
-Igor Timo,(Podemos-MG),Ausente
+Igor Timo,(Podemos-MG),Sem voto
 Iracema Portella,(PP-PI),Sim
 Isnaldo Bulhões Jr,(MDB-AL),Não
 Israel Batista,(PV-DF),Não
@@ -247,7 +247,7 @@ Jefferson Campos,(PSB-SP),Sim
 Jerônimo Goergen,(PP-RS),Sim
 Jéssica Sales,(MDB-AC),Sim
 Jesus Sérgio,(PDT-AC),Sim
-Jhonatan de Jesus,(Republican-RR),Ausente
+Jhonatan de Jesus,(Republican-RR),Sem voto
 João C. Bacelar,(PL-BA),Não
 João Campos,(Republican-GO),Sim
 João Daniel,(PT-SE),Não
@@ -262,7 +262,7 @@ José Guimarães,(PT-CE),Não
 Jose Mario Schrein,(DEM-GO),Sim
 José Medeiros,(Podemos-MT),Sim
 José Nelto,(Podemos-GO),Não
-José Nunes,(PSD-BA),Ausente
+José Nunes,(PSD-BA),Sem voto
 José Priante,(MDB-PA),Não
 José Ricardo,(PT-AM),Não
 José Rocha,(PL-BA),Não
@@ -279,14 +279,14 @@ Junio Amaral,(PSL-MG),Sim
 Júnior Ferrari,(PSD-PA),Sim
 Junior Lourenço,(PL-MA),Não
 Júnior Mano,(PL-CE),Não
-Juscelino Filho,(DEM-MA),Ausente
+Juscelino Filho,(DEM-MA),Sem voto
 Kim Kataguiri,(DEM-SP),Não
 Laercio Oliveira,(PP-SE),Sim
-Laerte Bessa,(PL-DF),Ausente
+Laerte Bessa,(PL-DF),Sem voto
 Lafayette Andrada,(Republican-MG),Sim
 Lauriete,(PSC-ES),Sim
 Leandre,(PV-PR),Sim
-Leda Sadala,(Avante-AP),Ausente
+Leda Sadala,(Avante-AP),Sem voto
 Léo Moraes,(Podemos-RO),Sim
 Léo Motta,(PSL-MG),Sim
 Leo de Brito,(PT-AC),Não
@@ -306,7 +306,7 @@ Luciano Ducci,(PSB-PR),Sim
 Lucio Mosquini,(MDB-RO),Sim
 Luis Miranda,(DEM-DF),Não
 Luis Tibé,(Avante-MG),Não
-Luisa Canziani,(PTB-PR),Ausente
+Luisa Canziani,(PTB-PR),Sem voto
 Luiz Carlos Motta,(PL-SP),Não
 Luiz Lima,(PSL-RJ),Sim
 Luiz Nishimori,(PL-PR),Sim
@@ -319,7 +319,7 @@ Magda Mofatto,(PL-GO),Sim
 Major Fabiana,(PSL-RJ),Sim
 Mara Rocha,(PSDB-AC),Sim
 Marcel van Hattem,(Novo-RS),Sim
-Marcelo Álvaro,(PSL-MG),Ausente
+Marcelo Álvaro,(PSL-MG),Sem voto
 Marcelo Aro,(PP-MG),Não
 Marcelo Brum,(PSL-RS),Sim
 Marcelo Calero,(Cidadania-RJ),Não
@@ -338,7 +338,7 @@ Marcos Pereira,(Republican-SP),Sim
 Marcos Soares,(DEM-RJ),Sim
 Margarete Coelho,(PP-PI),Não
 Maria Rosas,(Republican-SP),Sim
-Maria do Rosário,(PT-RS),Ausente
+Maria do Rosário,(PT-RS),Sem voto
 Mariana Carvalho,(PSDB-RO),Sim
 Marília Arraes,(PT-PE),Não
 Marina Santos,(PL-PI),Sim
@@ -348,7 +348,7 @@ Marlon Santos,(PDT-RS),Sim
 Marreca Filho,(Patriota-MA),Não
 Marx Beltrão,(PSD-AL),Sim
 Maurício Dziedrick,(PTB-RS),Sim
-Mauro Lopes,(MDB-MG),Ausente
+Mauro Lopes,(MDB-MG),Sem voto
 Mauro Nazif,(PSB-RO),Sim
 Merlong Solano,(PT-PI),Não
 Miguel Lombardi,(PL-SP),Sim
@@ -379,12 +379,12 @@ Otto Alencar,(PSD-BA),Não
 Padre João,(PT-MG),Não
 Pastor Eurico,(Patriota-PE),Sim
 Pastor Gil,(PL-MA),Sim
-Pastor Isidório,(Avante-BA),Ausente
+Pastor Isidório,(Avante-BA),Sem voto
 Patrus Ananias,(PT-MG),Não
 Paula Belmonte,(Cidadania-DF),Sim
 Paulão,(PT-AL),Não
-Paulo Abi-Ackel,(PSDB-MG),Ausente
-Paulo Azi,(DEM-BA),Ausente
+Paulo Abi-Ackel,(PSDB-MG),Sem voto
+Paulo Azi,(DEM-BA),Sem voto
 Paulo Bengtson,(PTB-PA),Sim
 Paulo Ganime,(Novo-RJ),Sim
 Paulo Guedes,(PT-MG),Não
@@ -404,9 +404,9 @@ Pedro Lupion,(DEM-PR),Sim
 Pedro Paulo,(DEM-RJ),Não
 Pedro Uczai,(PT-SC),Não
 Pedro Vilela,(PSDB-AL),Sim
-Pedro Westphalen,(PP-RS),Ausente
+Pedro Westphalen,(PP-RS),Sem voto
 Perpétua Almeida,(PCdoB-AC),Não
-Pinheirinho,(PP-MG),Ausente
+Pinheirinho,(PP-MG),Sem voto
 Policial Sastre,(PL-SP),Sim
 Pompeo de Mattos,(PDT-RS),Sim
 Pr Marco Feliciano,(PL-SP),Sim
@@ -430,7 +430,7 @@ Ricardo Silva,(PSB-SP),Sim
 Ricardo Teobaldo,(Podemos-PE),Sim
 Ricardo da Karol,(PSC-RJ),Sim
 Roberto Alves,(Republican-SP),Sim
-Roberto de Lucena,(Podemos-SP),Ausente
+Roberto de Lucena,(Podemos-SP),Sem voto
 Rodrigo Agostinho,(PSB-SP),Não
 Rodrigo Coelho,(Podemos-SC),Sim
 Rodrigo Maia,(S.Part.-RJ),Não
@@ -438,7 +438,7 @@ Rodrigo de Castro,(PSDB-MG),Não
 Rogério Correia,(PT-MG),Não
 Rogério Peninha,(MDB-SC),Sim
 Roman,(Patriota-PR),Sim
-Ronaldo Carletto,(PP-BA),Ausente
+Ronaldo Carletto,(PP-BA),Sem voto
 Rosana Valle,(PSB-SP),Sim
 Rosangela Gomes,(Republican-RJ),Sim
 Rose Modesto,(PSDB-MS),Sim
@@ -461,7 +461,7 @@ Sidney Leite,(PSD-AM),Não
 Silas Câmara,(Republican-AM),Sim
 Silvia Cristina,(PDT-RO),Sim
 Silvio Costa Filho,(Republican-PE),Não
-Soraya Santos,(PL-RJ),Ausente
+Soraya Santos,(PL-RJ),Sem voto
 SóstenesCavalcante,(DEM-RJ),Sim
 Stefano Aguiar,(PSD-MG),Sim
 Stephanes Junior,(PSD-PR),Sim
@@ -480,7 +480,7 @@ ToninhoWandscheer,(PROS-PR),Sim
 Totonho Lopes,(PDT-CE),Não
 Túlio Gadêlha,(PDT-PE),Não
 Uldurico Junior,(PROS-BA),Sim
-Vaidon Oliveira,(PROS-CE),Ausente
+Vaidon Oliveira,(PROS-CE),Sem voto
 Valdevan Noventa,(PL-SE),Não
 Valmir Assunção,(PT-BA),Não
 Valtenir Pereira,(MDB-MT),Não
@@ -491,7 +491,7 @@ Vermelho,(PSD-PR),Sim
 Vicentinho,(PT-SP),Não
 Vicentinho Júnior,(PL-TO),Não
 Vilson da Fetaemg,(PSB-MG),Não
-Vinicius Carvalho,(Republican-SP),Ausente
+Vinicius Carvalho,(Republican-SP),Sem voto
 Vinicius Gurgel,(PL-AP),Não
 Vinicius Poit,(Novo-SP),Não
 Vitor Hugo,(PSL-GO),Sim
@@ -501,10 +501,10 @@ Waldenor Pereira,(PT-BA),Não
 Walter Alves,(MDB-RN),Não
 Weliton Prado,(PROS-MG),Sim
 Wellington,(PL-PB),Não
-Wilson Santiago,(PTB-PB),Ausente
+Wilson Santiago,(PTB-PB),Sem voto
 Wolney Queiroz,(PDT-PE),Não
 Zé Carlos,(PT-MA),Não
 Zé Neto,(PT-BA),Não
-Zé Silva,(Solidaried-MG),Ausente
+Zé Silva,(Solidaried-MG),Sem voto
 Zé Vitor,(PL-MG),Sim
 Zeca Dirceu,(PT-PR),Não
